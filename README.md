@@ -1,4 +1,4 @@
-## Your Name
+## Keomony Khun
 
 A mom who loves cooking Asian food, Korean pop dancing (and some dramas), and sining. Before Makersacademy, I have worked with United Nation Development Program and Non-Governmental Organisations in Cambodia related to Human's rights, Sex Trafficking, Domestic Violence, Gender, and Empowering women.
 
@@ -52,34 +52,34 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Experience
 
 **Self Employed,** Remote (January 2011 to March 2012)    
-*Project Manager*  
+*Project Manager*   
 Designed and managed one of the first web shops in Cambodia. Managed shipping, pricing, marketing, procurement, web design.
 
 **Cambodian Centre for Human Rights,** Cambodia (March 2010 to July 2010)   
-*Project Officer*
+*Project Officer*   
 Was responsible for the development and implementation of the project. To organise series of meeting, seminar, workshop, conference with relevant NGOs, business and other stakeholders, RGC.
 
 **Cambodian Institute for Cooperation and Peace,** Cambodia (August 2009 to November 2009)   
-*Programs Director*
+*Programs Director*   
 Organised workshops, conducted survey and interview to at least 100 SMEs
 
 
 **UNDP,** Cambodia (February 2009 to August 2009)   
-*Information Technology Advisor*
+*Information Technology Advisor*   
 Building training materials, refined manuals for databases and other information technology applications
 
 **Zenwaves STPL,** India (January 2008 to July 2008)   
-*Web developer*
+*Web developer*   
 Web development with PHP and Joomla
 
 **Cambodian Women’s Crisis Centre,** Cambodia (July 2004 to June 2006)   
-*System and Database Administrator*
+*System and Database Administrator*   
 Was responsible for developing and maintaining a Database Management System which processed the records of secure cases
 
 **Interquess Enterprises,** Cambodia (August 2003 to August 2004)   
-*Web Developer*
+*Web Developer*    
 Built E-Government web site project, the first major web development project in the country.
 
 **Cambodia Information Technology Ltd,** Cambodia (October 2001 to May 2003)   
-*Web Developer*
+*Web Developer*  
 Built E-Government web site project, the first major web development project in the country
