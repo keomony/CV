@@ -1,6 +1,14 @@
 ## Keomony Khun
+#### Junior Full Stack Web Developer
+**Recently graduated from Makers Academy, a leading European Web Developer bootcamp, which trains developers to be ready for the new agile workspace, along with 6+ years experiences in web development.**
+...
 
-A mom who loves cooking Asian food, Korean pop dancing (and some dramas), and sining. Before Makersacademy, I have worked with United Nation Development Program and Non-Governmental Organisations in Cambodia related to Human's rights, Sex Trafficking, Domestic Violence, Gender, and Empowering women.
+[Profile](#profile) -- [Skills](#skills) -- [Projects](#projects) -- [Education](#education) -- [Experience](#experience) -- [Interests](#interests)
+____
+###<a name="profile">Profile</a>
+A mom who loves cooking Asian food, Korean pop dancing (and some dramas), and singing. Before Makers Academy, I have worked with United Nation Development Program and Non-Governmental Organisations in Cambodia related to Human's rights, Sex Trafficking, Domestic Violence, Gender, and Empowering women.
+
+I was a web developer for 6 years before I left to raise my son. Since leaving, IT has changed a lot. With an intensive course in Makers Academy I had an opportunity to learn current web development practices and technologies, in this fast moving industry.
 
 ## Skills
 
@@ -21,7 +29,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+### <a name="education">Education</a>
 
 #### Makers Academy (7th-Nov-2016 to 10th-Feb-2016)
 
@@ -49,7 +57,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Any other qualifications
 
-## Experience
+### <a name="experience">Professional experience</a>
 
 **Self Employed,** Remote (January 2011 to March 2012)    
 *Project Manager*   
@@ -62,7 +70,6 @@ Was responsible for the development and implementation of the project. To organi
 **Cambodian Institute for Cooperation and Peace,** Cambodia (August 2009 to November 2009)   
 *Programs Director*   
 Organised workshops, conducted survey and interview to at least 100 SMEs
-
 
 **UNDP,** Cambodia (February 2009 to August 2009)   
 *Information Technology Advisor*   
@@ -78,8 +85,11 @@ Was responsible for developing and maintaining a Database Management System whic
 
 **Interquess Enterprises,** Cambodia (August 2003 to August 2004)   
 *Web Developer*    
-Built E-Government web site project, the first major web development project in the country.
+Built E-Government website project, the first major web development project in the country.
 
 **Cambodia Information Technology Ltd,** Cambodia (October 2001 to May 2003)   
 *Web Developer*  
 Built E-Government web site project, the first major web development project in the country
+
+### Interests
+Swimming, Yoga, Meditation, Asian food cooking, Kpop dancing and culture
