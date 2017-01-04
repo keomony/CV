@@ -1,95 +1,92 @@
 ## Keomony Khun
-#### Junior Full Stack Web Developer
-**Recently graduated from Makers Academy, a leading European Web Developer bootcamp, which trains developers to be ready for the new agile workspace, along with 6+ years experiences in web development.**
-...
 
-[Profile](#profile) -- [Skills](#skills) -- [Projects](#projects) -- [Education](#education) -- [Experience](#experience) -- [Interests](#interests)
-____
-###<a name="profile">Profile</a>
-A mom who loves cooking Asian food, Korean pop dancing (and some dramas), and singing. Before Makers Academy, I have worked with United Nation Development Program and Non-Governmental Organisations in Cambodia related to Human's rights, Sex Trafficking, Domestic Violence, Gender, and Empowering women.
-
-I was a web developer for 6 years before I left to raise my son. Since leaving, IT has changed a lot. With an intensive course in Makers Academy I had an opportunity to learn current web development practices and technologies, in this fast moving industry.
+I am mom who is passionate about technology and building great products, and I am currently training myself to get back into technology. I am looking for an environment which allows me to contribute and grow as an individual and as a developer.
 
 ## Skills
 
-#### This Skill
+#### I can write maintainable code
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I have learnt skills like behaviour driven development, test driven development and object oriented programming, to produce readable and maintainable code. I developed this skill in makers academy and can be seen in my projects.
 
-- Experience
-- Achievements
-- Evidence
+#### Technical Communication
 
-#### Another Skill
+I am a effective communicator of technical ideas and concepts with my peers. At makers I pair programmed everyday to collaboratively come up with solutions for problems.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I have built training materials and manuals for IT applications during my work as a IT Advisor at UNDP.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### I can facilitate idea sharing
 
-### <a name="education">Education</a>
+I can organize sessions and facilitate conversations while giving everyone a chance to speak and express themselves.  I organized workshops and meetings during my work at CCHR and CICP in Cambodia
+
+#### I am Self Driven
+
+I am self driven and constantly strive to improve myself and learn new skills. I am learning to write good code and getting myself back to work with a course in Makers. I also started and managed one of the first webshops in Cambodia.
+
+## Projects
+
+Project | Description | Built With | Tested With
+--- | --- | ---  | ---
+[Twitter Clone](https://github.com/keomony/chitter-challenge) | A twitter clone. | Ruby, Sinatra | RSpec
+TODO:Add More |||
+
+## Education
 
 #### Makers Academy (7th-Nov-2016 to 10th-Feb-2016)
 
-- Fall in love with coding again
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC(, DDD)
+- OOP, TDD, SOLID, MVC
 - MVP (Minimum Viable Product), Agile Web Development
 - Software Craftsmanship
 - Ruby, Rails, Javascript, jQuery
 - Rspec, Jasmine(, Mocha)
 - HTML5, CSS, SQL
 
-#### University of Pune / India (2006 to 2008)
+#### M.Sc. in Scientific Computing, (2006-2008)
 
-- M.Sc. in Scientific Computing
-- with grade A, received with honour
-- Scholarship from ICCR (Indian Council for Cultural Relations)
+- University of Pune
+- Grade A
+- ICCR Scholarship
 
-#### Royal University of Phnom Penh / Cambodia (1998 to 2002)
+#### B.Sc. in Computer Science, (1998-2002)
 
-- B.Sc. in Computer Science
-- 70%
-- Other cool stuff
+- Royal University of Phnom Penh
 
-#### Any other qualifications
+## Experience
 
-### <a name="experience">Professional experience</a>
+**Self Employed, Remote** (January 2011 - March 2012)
+*Project Manager*
+Designed and managed one of the first webshops in Cambodia. Managed shipping, pricing, marketing, procurement, web design.
 
-**Self Employed,** Remote (January 2011 to March 2012)    
-*Project Manager*   
-Designed and managed one of the first web shops in Cambodia. Managed shipping, pricing, marketing, procurement, web design.
+**Cambodian Center for Human Rights, Cambodia** (March 2010 - July 2010)
+*Project Officer*  
+Was responsible for the development and implementation of the project. To organize series of meeting, seminar, workshop, conference with relevant NGOs, business and other stakeholders, RGC.
 
-**Cambodian Centre for Human Rights,** Cambodia (March 2010 to July 2010)   
-*Project Officer*   
-Was responsible for the development and implementation of the project. To organise series of meeting, seminar, workshop, conference with relevant NGOs, business and other stakeholders, RGC.
 
-**Cambodian Institute for Cooperation and Peace,** Cambodia (August 2009 to November 2009)   
-*Programs Director*   
-Organised workshops, conducted survey and interview to at least 100 SMEs
+**Cambodian Institute for Cooperation and Peace, Cambodia** (August 2009 - November 2009)
+*Programs Director*  
+Organized workshops, conducted survey and interview to at least 100 SMEs
 
-**UNDP,** Cambodia (February 2009 to August 2009)   
-*Information Technology Advisor*   
+**UNDP, Cambodia** (February 2009 - August 2009)
+*Information Technology Advisor*  
 Building training materials, refined manuals for databases and other information technology applications
 
-**Zenwaves STPL,** India (January 2008 to July 2008)   
-*Web developer*   
+
+**Zenwaves STPL, India** (January 2008 - July 2008)
+*Web developer*  
 Web development with PHP and Joomla
 
-**Cambodian Women’s Crisis Centre,** Cambodia (July 2004 to June 2006)   
-*System and Database Administrator*   
+**Cambodian Women’s Crisis Center, Cambodia** (July 2004 - June 2006)
+*System and Database Administrator*  
 Was responsible for developing and maintaining a Database Management System which processed the records of secure cases
 
-**Interquess Enterprises,** Cambodia (August 2003 to August 2004)   
-*Web Developer*    
-Built E-Government website project, the first major web development project in the country.
-
-**Cambodia Information Technology Ltd,** Cambodia (October 2001 to May 2003)   
+**Interquess Enterprises, Cambodia** (July 2003 - June 2004)
 *Web Developer*  
-Built E-Government web site project, the first major web development project in the country
+Web design and development in PHP
 
-### Interests
-Swimming, Yoga, Meditation, Asian food cooking, Kpop dancing and culture
+**Cambodia Information Technology Ltd, Cambodia** (October 2001 - May 2003)
+*Web Developer*  
+Built E-Government website project, the first major web development project in the country
+
+## Interests
+Swimming, Yoga, Meditation, Asian food cooking, Kpop dancing and culture, Magic the gathering cards game
