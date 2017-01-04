@@ -1,22 +1,22 @@
 ## Keomony Khun
 
-I am mom who is passionate about technology and building great products, and I am currently training myself to get back into technology. I am looking for an environment which allows me to contribute and grow as an individual and as a developer.
+I am a mom who is passionate about technology and building great products, and I am currently training myself to get back into technology. I am looking for an environment which allows me to contribute and grow as an individual and as a developer.
 
 ## Skills
 
 #### I can write maintainable code
 
-I have learnt skills like behaviour driven development, test driven development and object oriented programming, to produce readable and maintainable code. I developed this skill in makers academy and can be seen in my projects.
+I have learnt skills like behaviour driven development, test driven development and object oriented programming, to produce readable and maintainable code. I developed these skills in makers academy and can be seen in my projects.
 
 #### Technical Communication
 
-I am a effective communicator of technical ideas and concepts with my peers. At makers I pair programmed everyday to collaboratively come up with solutions for problems.
+I am an effective communicator of technical ideas and concepts with my peers. At makers I pair programmed everyday to collaboratively come up with solutions for problems.
 
-I have built training materials and manuals for IT applications during my work as a IT Advisor at UNDP.
+I have built training materials and manuals for IT applications during my work as an IT Advisor at UNDP as well as an developer in all previous working places.
 
 #### I can facilitate idea sharing
 
-I can organize sessions and facilitate conversations while giving everyone a chance to speak and express themselves.  I organized workshops and meetings during my work at CCHR and CICP in Cambodia
+I can organize sessions and facilitate conversations while giving everyone a chance to speak and express themselves.  I organized workshops and meetings during my work at CCHR and CICP in Cambodia.
 
 #### I am Self Driven
 
