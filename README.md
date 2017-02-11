@@ -1,6 +1,6 @@
 ## Keomony Khun
 
-I am a mom who is passionate about technology and building great products, and I am currently training myself to get back into technology. I am looking for an environment which allows me to contribute and grow as an individual and as a developer.
+After raising a child, I rediscovered my passion for technology and building great products. I am currently training at Makers Academy to develop best practices in software craftsmanship. I am looking for an environment which allows me to contribute and grow as an individual and as a developer.
 
 ## Skills
 
@@ -24,10 +24,13 @@ I am self driven and constantly strive to improve myself and learn new skills. I
 
 ## Projects
 
-Project | Description | Built With | Tested With
---- | --- | ---  | ---
-[Twitter Clone](https://github.com/keomony/chitter-challenge) | A twitter clone. | Ruby, Sinatra | RSpec
-TODO:Add More |||
+Project | Description | Technologies | Timeframe | Testing
+--- | --- | ---  | --- | ---
+[Twitter Clone](https://github.com/keomony/chitter-challenge) | A Twitter clone | Ruby, Sinatra | 2 days | RSpec
+[Makersbnb](https://github.com/cjcoops/makersbnb) | An Airbnb clone|Ruby, Rails, Postgres, jQuery, Bootstrap | 5 days | Rspec
+[Apiify](https://github.com/oscar-barlow/apiify) | Apiify is a little gem that takes any .csv file and turns it into an API | Ruby, Rails, Postgres | 5 days | Rspec
+[Clothes Swapping](https://github.com/keomony/clothes_swapping)| Group project: A Web app for exchanging clothes with one another | Ruby, Rails, Postgres, Bootstrap, Amazon S3 | 10 days | Rspec  
+
 
 ## Education
 
