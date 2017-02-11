@@ -1,6 +1,6 @@
 ## Keomony Khun
 
-After raising a child, I rediscovered my passion for technology and building great products. I am currently training at Makers Academy to develop best practices in software craftsmanship. I am looking for an environment which allows me to contribute and grow as an individual and as a developer.
+After raising a child, I rediscovered my passion for technology and building great products. I have graduated from Makers Academy, a bootcamp, in which I was trained to develop best practices in software craftsmanship. I am looking for an environment which allows me to contribute and grow as an individual and as a developer.
 
 ## Skills
 
