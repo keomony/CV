@@ -1,18 +1,18 @@
 ## Keomony Khun
 
-After raising a child, I rediscovered my passion for technology and building great products. I have graduated from Makers Academy, a bootcamp, in which I was trained to develop best practices in software craftsmanship. I am looking for an environment which allows me to contribute and grow as an individual and as a developer.
+After raising a child, I rediscovered my passion for technology and building great products. I have completed a course at Makers Academy, a bootcamp, in which I was trained to develop best practices in software craftsmanship. I am looking for an environment which allows me to contribute and grow as an individual and as a developer.
 
 ## Skills
 
 #### I can write maintainable code
 
-I have learnt skills like behaviour driven development, test driven development and object oriented programming, to produce readable and maintainable code. I developed these skills in makers academy and can be seen in my projects.
+I have learnt skills like behaviour driven development, test driven development and object oriented programming, to produce readable and maintainable code. I developed these skills in Makers Academy and can be seen in my projects.
 
 #### Technical Communication
 
-I am an effective communicator of technical ideas and concepts with my peers. At makers I pair programmed everyday to collaboratively come up with solutions for problems.
+I am an effective communicator of technical ideas and concepts with my peers. At makers Academy I pair programmed everyday to collaboratively come up with solutions for problems.
 
-I have built training materials and manuals for IT applications during my work as an IT Advisor at UNDP as well as an developer in all previous working places.
+I have built training materials and manuals for IT applications during my work as an IT Administrator at CWCC(Cambodian Women's Crisis Center) as well as a developer in all previous working places.
 
 #### I can facilitate idea sharing
 
@@ -20,7 +20,7 @@ I can organize sessions and facilitate conversations while giving everyone a cha
 
 #### I am Self Driven
 
-I am self driven and constantly strive to improve myself and learn new skills. I am learning to write good code and getting myself back to work with a course in Makers. I also started and managed one of the first webshops in Cambodia.
+I am self driven and constantly strive to improve myself and learn new skills. I am learning to write good code and getting myself back to work with a course in Makers Academy. I also started and managed one of the first online shops in Cambodia.
 
 ## Projects
 
@@ -38,12 +38,12 @@ Project | Description | Technologies | Timeframe | Testing
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC
+- OOP, TDD, SOLID
 - MVP (Minimum Viable Product), Agile Web Development
 - Software Craftsmanship
 - Ruby, Rails, Javascript, jQuery
-- Rspec, Jasmine(, Mocha)
-- HTML5, CSS, SQL
+- Rspec, Jasmine
+- HTML5, CSS, Postgres
 
 #### M.Sc. in Scientific Computing, (2006-2008)
 
@@ -59,11 +59,11 @@ Project | Description | Technologies | Timeframe | Testing
 
 **Self Employed, Remote** (January 2011 - March 2012)
 *Project Manager*
-Designed and managed one of the first webshops in Cambodia. Managed shipping, pricing, marketing, procurement, web design.
+Designed and managed one of the first online shops in Cambodia. Managed shipping, pricing, marketing, procurement, web design.
 
 **Cambodian Center for Human Rights, Cambodia** (March 2010 - July 2010)
 *Project Officer*  
-Was responsible for the development and implementation of the project. To organize series of meeting, seminar, workshop, conference with relevant NGOs, business and other stakeholders, RGC.
+Was responsible for the development and implementation of the project. To organize series of meeting, seminar, workshop, conference with relevant NGOs, business and other stakeholders, RGC(Royal Government of Cambodia).
 
 
 **Cambodian Institute for Cooperation and Peace, Cambodia** (August 2009 - November 2009)
@@ -77,7 +77,7 @@ Building training materials, refined manuals for databases and other information
 
 **Zenwaves STPL, India** (January 2008 - July 2008)
 *Web developer*  
-Web development with PHP and Joomla
+Web design and development with PHP and Joomla
 
 **Cambodian Women’s Crisis Center, Cambodia** (July 2004 - June 2006)
 *System and Database Administrator*  
