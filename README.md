@@ -57,38 +57,38 @@ Project | Description | Technologies | Timeframe | Testing
 
 ## Experience
 
-**Self Employed, Remote** (January 2011 - March 2012)
-*Project Manager*
+**Self Employed, Remote** (January 2011 - March 2012)  
+*Project Manager*  
 Designed and managed one of the first online shops in Cambodia. Managed shipping, pricing, marketing, procurement, web design.
 
-**Cambodian Center for Human Rights, Cambodia** (March 2010 - July 2010)
-*Project Officer*  
+**Cambodian Center for Human Rights, Cambodia** (March 2010 - July 2010)  
+*Project Officer*    
 Was responsible for the development and implementation of the project. To organize series of meeting, seminar, workshop, conference with relevant NGOs, business and other stakeholders, RGC(Royal Government of Cambodia).
 
 
-**Cambodian Institute for Cooperation and Peace, Cambodia** (August 2009 - November 2009)
+**Cambodian Institute for Cooperation and Peace, Cambodia** (August 2009 - November 2009)  
 *Programs Director*  
 Organized workshops, conducted survey and interview to at least 100 SMEs
 
-**UNDP, Cambodia** (February 2009 - August 2009)
+**UNDP, Cambodia** (February 2009 - August 2009)  
 *Information Technology Advisor*  
 Building training materials, refined manuals for databases and other information technology applications
 
 
-**Zenwaves STPL, India** (January 2008 - July 2008)
+**Zenwaves STPL, India** (January 2008 - July 2008)  
 *Web developer*  
 Web design and development with PHP and Joomla
 
-**Cambodian Women’s Crisis Center, Cambodia** (July 2004 - June 2006)
+**Cambodian Women’s Crisis Center, Cambodia** (July 2004 - June 2006)  
 *System and Database Administrator*  
 Was responsible for developing and maintaining a Database Management System which processed the records of secure cases
 
-**Interquess Enterprises, Cambodia** (July 2003 - June 2004)
+**Interquess Enterprises, Cambodia** (July 2003 - June 2004)  
 *Web Developer*  
 Web design and development in PHP
 
-**Cambodia Information Technology Ltd, Cambodia** (October 2001 - May 2003)
-*Web Developer*  
+**Cambodia Information Technology Ltd, Cambodia** (October 2001 - May 2003)  
+*Web Developer*    
 Built E-Government website project, the first major web development project in the country
 
 ## Interests
