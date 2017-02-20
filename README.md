@@ -4,7 +4,7 @@ I am a full stack developer specializing in Ruby, Rails, Javascript, and jQuery.
 
 In November 2016, I enrolled in Makers Academy, Europe's leading developer Bootcamp. The Bootcamp has been a fantastic experience for me! Firstly I am amazed at what I have learned and can now create using Ruby and JavaScript. In addition, I learned many software development best practices, including Agile methodologies, XP values, and object-oriented design principles.
 
-I am looking to join a focused and driven team which emphasizes individual development and contributing to the community.
+I am looking forwards to joining a focused and driven team which emphasizes individual development and contributing to the community.
 
 ## Skills
 
