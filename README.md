@@ -1,6 +1,12 @@
 ## Keomony Khun
 
-After raising a child, I rediscovered my passion for technology and building great products. I have completed a course at Makers Academy, a bootcamp, in which I was trained to develop best practices in software craftsmanship. I am looking for an environment which allows me to contribute and grow as an individual and as a developer.
+I am a full stack Ruby developer specializing in Ruby, Rails, Javascript, and jQuery. I did a Computer Science Degree and worked as a web developer in various organisations in Cambodia. I am passionate about technology and love solving problems. After deciding to get back to work after 5 years of childcare, I started teaching myself Ruby.
+
+In November 2016, I enrolled in Makers Academy, Europe's leading developer Bootcamp. The Bootcamp has been a fantastic experience for me! Firstly I am amazed at what I have learned and can now create using Ruby and JavaScript. In addition, I learned many software development best practices, including Agile methodologies, XP values, and object-oriented design principles.
+
+My goal is to continue to my development in a team with a focus on individual growth and community.
+
+Working for a team with a moral purpose is my goal - I would welcome the chance to meet and demonstrate my passion to you.
 
 ## Skills
 
@@ -16,7 +22,7 @@ I have built training materials and manuals for IT applications during my work a
 
 #### I can facilitate idea sharing
 
-I can organize sessions and facilitate conversations while giving everyone a chance to speak and express themselves.  I organized workshops and meetings during my work at CCHR and CICP in Cambodia.
+I can organize sessions and facilitate conversations while giving everyone a chance to speak and express themselves.  I organized workshops and meetings during my work at CCHR(Cambodian Center for Human Rights) and CICP(Cambodian Institute for Cooperation and Peace).
 
 #### I am Self Driven
 
