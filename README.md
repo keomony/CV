@@ -1,10 +1,10 @@
 ## Keomony Khun
 
-I am a full stack developer specializing in Ruby, Rails, Javascript, and jQuery. I did a Computer Science Degree and worked as a web developer in various organizations in Cambodia. I am passionate about technology and love solving problems. I decided to get back to work after 5 years of parenting. To begin with, I started teaching myself Ruby.
+I am a full stack developer specialising in Java, Springboot, and React. I have a Computer Science Degree and have worked as a web developer in various organisations in Cambodia, India, and UK. I am passionate about technology and love solving problems. I decided to get back to work after 5-year-child-care break. To begin with, I started teaching myself Ruby.
 
-In November 2016, I enrolled in Makers Academy, Europe's leading developer Bootcamp, and the Bootcamp has been a fantastic experience for me. Firstly I am amazed at what I have learned and can use those skills to create web applications using Ruby and JavaScript. In addition, I learned many software-development-best practices, including Agile methodologies, XP values, and object-oriented design principles.
+I am working as a consultant where I have the opportunity to work with different Agile teams in different domains. I am passionate about software-development-best practices, including Agile methodologies, XP values, and object-oriented design principles.
 
-I am looking forward to joining a focused and driven team which emphasizes individual development and contributing to the community.
+I am looking forward to joining a focused and driven team which emphasises individual development and contributing to the community.
 
 ## Skills
 
